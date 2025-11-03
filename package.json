@@ -1,0 +1,29 @@
+{
+  "name": "pertemuan-03-nov-2025-jeflijonathan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeflijonathan/Pertemuan-03-Nov-2025-JefliJonathan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jeflijonathan/Pertemuan-03-Nov-2025-JefliJonathan/issues"
+  },
+  "homepage": "https://github.com/jeflijonathan/Pertemuan-03-Nov-2025-JefliJonathan#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
